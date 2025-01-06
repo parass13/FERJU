@@ -1,0 +1,19 @@
+# Core dependencies
+tensorflow==2.12.0  # Replace with the version you used to train the model
+numpy==1.23.5
+pandas==1.5.3
+opencv-python==4.8.0.74  # For image processing
+
+# Streamlit for the app interface
+streamlit==1.25.0
+
+# MySQL connector for database integration
+mysql-connector-python==8.1.0
+
+# For visualization and charts
+matplotlib==3.8.0
+seaborn==0.12.2
+
+# Miscellaneous utilities
+Pillow==10.0.0  # For handling images
+scikit-learn==1.3.1  # If required for preprocessing or evaluation
