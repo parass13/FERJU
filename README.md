@@ -1,4 +1,4 @@
-** Facial Expression Recognition App  **
+**Facial Expression Recognition App**
 
 The **Facial Expression Recognition App** is an advanced AI-powered tool designed to detect and interpret facial expressions from images or real-time camera feeds. It utilizes cutting-edge machine learning techniques and provides users with a sleek, modern interface that ensures an intuitive and engaging experience.  
 
